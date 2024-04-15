@@ -1,8 +1,4 @@
-- Hi, I’m @Halzuba1 or Hussain Alzubaidi!
-- I’m interested in developing small open source projects that involve AI and Machine Learning!
-- I’m currently learning Java and C++ at the University of Tennesee in Knoxville!
-- I’m looking to collaborate on open source projects
-- You can reach me at Halzuba1@vols.utk.edu
+- Hi
 
 <!---
 Halzuba1/Halzuba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
